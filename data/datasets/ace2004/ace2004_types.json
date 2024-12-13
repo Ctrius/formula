@@ -1,0 +1,1 @@
+{"entities": {"ORG": {"short": "ORG", "verbose": "ORG"}, "GPE": {"short": "GPE", "verbose": "GPE"}, "PER": {"short": "PER", "verbose": "PER"}, "LOC": {"short": "LOC", "verbose": "LOC"}, "FAC": {"short": "FAC", "verbose": "FAC"}, "VEH": {"short": "VEH", "verbose": "VEH"}, "WEA": {"short": "WEA", "verbose": "WEA"}}, "relations": {}}
