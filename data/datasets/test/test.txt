@@ -1,0 +1,10 @@
+\max z=2x_{1}+3x_{2}
+\left\{\begin{aligned}2x_1+2x_2 \leq 12 \\x_1+2x_2 \leq 8 \\4x_1 \leq 16\\4x_2 \leq 12 \\x_1 \geq 0,x_2 \geq 0\end{aligned}\right.
+\min z=400x_1+700x_2+1400x_3+1900x_4+2500x_5
+\left\{\begin{aligned}&x_1+x_2+x_3+x_4+x_5=100 \\&30%x_1+45%x_2+73%x_3+85%x_4+92%x_5=100\times 80%\\&x_1\geq 0,x_2 \geq 0,x_3 \geq 0,x_4 \geq 0,x_5 \geq 0\end{aligned} \right.
+\max z=0.2(x_{11}+x_{21}+x_{31}+0.5x_{12}+0.6x_{23}+0.4x_{34})
+\left\{\begin{aligned}x_{11}+x_{12} &\leq 30000 \\x_{21}+x_{23} &\leq 30000-x_{12}+0.2x_{11} \\x_{31}+x_{34} &\leq 30000-x_{23}+0.2(x_{11}+x_{21}+0.5x_{12}) \\x_{12} &\leq 20000 \\x_{23} &\leq 15000 \\x_{34} &\leq 10000 \\x_{ij} &\geq 0,(i=1,2,3;j=1,2,3,4)\end{aligned} \right.
+\min z=x_1+x_2+x_3+x_4+x_5
+\left\{\begin{aligned}&x_1+2x_2+x_4 \geq 100 \\&2x_3+2x_4+x_5 \geq 100 \\&3x_1+x_2+2x_3+3x_5 \geq 100 \\&x_j \geq 0,(j=1,2,3,4,5)\end{aligned} \right.
+\max z=4x_1+10x_2+3x_3-10x_4
+\left\{\begin{aligned}&2x_1+3x_2 \leq 16 \\&3x_1+4x_2 \leq 24 \\&2x_2=x_3+x_4 \\&x_3 \leq 5 \\&x_j \geq 0,(j=1,2,3,4)\end{aligned} \right.
