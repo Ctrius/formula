@@ -2,8 +2,8 @@ import argparse
 
 from args import train_argparser, eval_argparser
 from config_reader import process_configs
-from piqn import input_reader
-from piqn.piqn_trainer import PIQNTrainer
+from fml import input_reader
+from fml.piqn_trainer import PIQNTrainer
 import warnings
 
 warnings.filterwarnings("ignore")
